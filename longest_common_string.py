@@ -7,8 +7,8 @@ Created on Tue Mar 26 13:31:18 2019
 
 #Create a peice of code that will searh for the biggest combination of letters in two string
 import sys
-a = "ashar" 
-b = "asharahmad"
+a = "michaelfrancis" 
+b = "francis"
 
 def matcher(a1, b1):
     a_list = []
@@ -59,30 +59,6 @@ def matcher(a1, b1):
         
         
         
-print(matcher(a,b))
-
-                
-  
-        
-
-
-        
-
-        
-            
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+print(matcher(a,b)
     
 matcher(a,b)
